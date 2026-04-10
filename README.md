@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rahul Jha
 **A passionate AI Generalist|| Backend Developer || **
 
-Email Me 👉 ✉️ **rjha72240@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **tech.rahuljha@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** DecisionOS
 - 🌱 **I’m currently learning:** Spring AI
