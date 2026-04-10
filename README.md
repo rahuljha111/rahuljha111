@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Rahul Jha
-**A passionate Backend Developer|| DevOps Engineer || **
+**A passionate AI Generalist|| Backend Developer || **
 
 Email Me 👉 ✉️ **rjha72240@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Job Tracking Api
+- 🔭 **I’m currently working on:** DecisionOS
 - 🌱 **I’m currently learning:** Spring AI
 - 🤔 **I’m looking for help with:** Frontend for my project
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** rjha72240@gmail.com
+- 📫 **How to reach me:** tech.rahuljha@gmail.com
 ## 🌐 Socials:
 <!-- Snake Game Repo View -->
 
